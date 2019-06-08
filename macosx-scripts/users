@@ -1,0 +1,3 @@
+## See users in a group for macosx
+
+dscacheutil -q group -a name staff
